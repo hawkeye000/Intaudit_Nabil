@@ -1,0 +1,7 @@
+[29-Aug-2019 13:59:13 America/Chicago] PHP Parse error:  syntax error, unexpected ''2014-01-01'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home3/m2f1f8j7/intaudit.apsychology.org/application/controllers/IndexController.php on line 11
+[29-Aug-2019 14:00:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/m2f1f8j7/intaudit.apsychology.org/application/controllers/IndexController.php on line 15
+[29-Aug-2019 14:00:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/m2f1f8j7/intaudit.apsychology.org/application/controllers/IndexController.php on line 15
+[29-Aug-2019 14:33:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/m2f1f8j7/intaudit.apsychology.org/application/views/index.php on line 50
+[29-Aug-2019 15:11:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home3/m2f1f8j7/intaudit.apsychology.org/application/views/index.php on line 66
+[29-Aug-2019 17:23:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/m2f1f8j7/intaudit.apsychology.org/application/views/index.php on line 13
+[29-Aug-2019 17:24:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/m2f1f8j7/intaudit.apsychology.org/application/views/index.php on line 58
